@@ -23,7 +23,7 @@ Implemented an automated Incident Management solution using ServiceNow ITSM best
 3. Debugging Business Rule execution timing. (Faced issues while writing Business Rules at first but later debugged the error.)
 4. Understood how enterprise systems help users to avoid mistakes.
 
-# Screenshots
+# ServiceNow PDI Screenshots:
 
 1. Original Incident Form:
 ![Incident Baseline](screenshots/baseline_incident.png)
