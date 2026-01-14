@@ -23,4 +23,23 @@ Implemented an automated Incident Management solution using ServiceNow ITSM best
 3. Debugging Business Rule execution timing. (Faced issues while writing Business Rules at first but later debugged the error.)
 4. Understood how enterprise systems help users to avoid mistakes.
 
-# JS Scripts and Screenshots attached in other files.
+# Screenshots
+
+1. Original Incident Form:
+![Incident Baseline](screenshots/baseline_incident.png)
+
+2. Creation of new Incident record:
+![Incident Record](screenshots/incident_record.png)
+
+4. Custom Field - Root Cause:
+![Root Cause Field](screenshots/incident_root_cause_field.png)
+
+5. UI Policy Enforcement:
+![UI Policy](screenshots/ui_policy_root_cause.png)
+
+6. Client Script Alert
+![Client Script Alert](screenshots/client_script_alert.png)
+
+7. Business Rule Auto Assignment
+![Business Rule](screenshots/br_auto_assign_group.png)
+
