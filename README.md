@@ -26,20 +26,20 @@ Implemented an automated Incident Management solution using ServiceNow ITSM best
 # Screenshots
 
 1. Original Incident Form:
-![Incident Baseline](servicenow_incident_management/baseline_incident.png)
+![Incident Baseline](Screenshots/baseline_incident.png)
 
 2. Creation of new Incident record:
-![Incident Record](servicenow_incident_management/incident_record.png)
+![Incident Record](Screenshots/incident_record.png)
 
-4. Custom Field - Root Cause:
-![Root Cause Field](servicenow_incident_management/incident_root_cause_field.png)
+3. Custom Field - Root Cause:
+![Root Cause Field](Screenshots/incident_root_cause_field.png)
 
-5. UI Policy Enforcement:
-![UI Policy](servicenow_incident_management/ui_policy_root_cause.png)
+4. UI Policy Enforcement:
+![UI Policy](Screenshots/ui_policy_root_cause.png)
 
-6. Client Script Alert
-![Client Script Alert](servicenow_incident_management/client_script_alert.png)
+5. Client Script Alert
+![Client Script Alert](Screenshots/client_script_alert.png)
 
-7. Business Rule Auto Assignment
-![Business Rule](servicenow_incident_management/br_auto_assign_group.png)
+6. Business Rule Auto Assignment
+![Business Rule](Screenshots/br_auto_assign_group.png)
 
